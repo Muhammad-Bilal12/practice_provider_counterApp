@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+
+some reference blogs are here:
+https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple
+https://medium.com/codechai/provider-state-management-in-flutter-d453e73537c5
+
+<YOUTUBE CHANNEL>
+
+https://www.youtube.com/watch?v=kcg_U_ubQgY&list=PLFyjjoCMAPtzn7tFLRV3eny7G74LnlMRt&index=5 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
